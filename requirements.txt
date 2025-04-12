@@ -1,6 +1,5 @@
 flet
 qrcode
-base64
 os
 json
 re
