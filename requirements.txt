@@ -1,0 +1,10 @@
+flet
+qrcode
+base64
+os
+json
+re
+io
+PIL
+Crypto
+typing
